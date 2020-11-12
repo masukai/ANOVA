@@ -1,0 +1,296 @@
+[1] 
+[1] 
+[1] 
+[1] coef1
+             Df Sum Sq  Mean Sq F value Pr(>F)
+Label         4  0.039 0.009662   0.756  0.555
+Residuals   265  3.385 0.012773               
+[1] 
+[1] 
+[1] 
+[1] coef2
+             Df Sum Sq  Mean Sq F value Pr(>F)  
+Label         4 0.0863 0.021571   2.637 0.0345 *
+Residuals   265 2.1679 0.008181                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+[1] 
+[1] 
+[1] 
+[1] coef3
+             Df Sum Sq  Mean Sq F value Pr(>F)
+Label         4 0.0192 0.004807   1.692  0.152
+Residuals   265 0.7529 0.002841               
+[1] 
+[1] 
+[1] 
+[1] coef4
+             Df Sum Sq Mean Sq F value Pr(>F)
+Label         4 0.0052 0.00131   0.603   0.66
+Residuals   265 0.5752 0.00217               
+[1] 
+[1] 
+[1] 
+[1] coef5
+             Df  Sum Sq   Mean Sq F value Pr(>F)
+Label         4 0.00213 0.0005332   0.452  0.771
+Residuals   265 0.31276 0.0011802               
+[1] 
+[1] 
+[1] 
+[1] coef6
+             Df Sum Sq   Mean Sq F value Pr(>F)  
+Label         4 0.0095 0.0023749   2.949 0.0207 *
+Residuals   265 0.2134 0.0008053                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+[1] 
+[1] 
+[1] 
+[1] coef7
+             Df  Sum Sq   Mean Sq F value Pr(>F)
+Label         4 0.00174 0.0004353   0.737  0.567
+Residuals   265 0.15644 0.0005904               
+[1] 
+[1] 
+[1] 
+[1] coef8
+             Df  Sum Sq   Mean Sq F value Pr(>F)  
+Label         4 0.00506 0.0012647   2.859  0.024 *
+Residuals   265 0.11725 0.0004424                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+[1] 
+[1] 
+[1] 
+[1] coef9
+             Df  Sum Sq   Mean Sq F value Pr(>F)
+Label         4 0.00015 0.0000366   0.103  0.981
+Residuals   265 0.09398 0.0003546               
+[1] 
+[1] 
+[1] 
+[1] coef10
+             Df Sum Sq Mean Sq F value   Pr(>F)    
+Label         4  0.633 0.15828   6.655 4.06e-05 ***
+Residuals   265  6.303 0.02378                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+[1] 
+[1] 
+[1] 
+[1] coef11
+             Df Sum Sq  Mean Sq F value Pr(>F)
+Label         4 0.0425 0.010622   1.777  0.134
+Residuals   265 1.5842 0.005978               
+[1] 
+[1] 
+[1] 
+[1] coef12
+             Df Sum Sq  Mean Sq F value Pr(>F)
+Label         4 0.0285 0.007124   1.727  0.144
+Residuals   265 1.0929 0.004124               
+[1] 
+[1] 
+[1] 
+[1] coef13
+             Df Sum Sq   Mean Sq F value Pr(>F)
+Label         4 0.0009 0.0002143   0.105  0.981
+Residuals   265 0.5412 0.0020424               
+[1] 
+[1] 
+[1] 
+[1] coef14
+             Df Sum Sq  Mean Sq F value Pr(>F)
+Label         4 0.0076 0.001888   1.474   0.21
+Residuals   265 0.3395 0.001281               
+[1] 
+[1] 
+[1] 
+[1] coef15
+             Df  Sum Sq   Mean Sq F value Pr(>F)
+Label         4 0.00255 0.0006384   0.759  0.553
+Residuals   265 0.22294 0.0008413               
+[1] 
+[1] 
+[1] 
+[1] coef16
+             Df  Sum Sq   Mean Sq F value Pr(>F)
+Label         4 0.00302 0.0007553    1.13  0.343
+Residuals   265 0.17717 0.0006686               
+[1] 
+[1] 
+[1] 
+[1] coef17
+             Df  Sum Sq   Mean Sq F value Pr(>F)
+Label         4 0.00131 0.0003265   0.596  0.666
+Residuals   265 0.14519 0.0005479               
+[1] 
+[1] 
+[1] 
+[1] coef18
+             Df  Sum Sq   Mean Sq F value Pr(>F)
+Label         4 0.00024 0.0000601    0.15  0.963
+Residuals   265 0.10642 0.0004016               
+[1] 
+[1] 
+[1] 
+[1] coef19
+             Df Sum Sq Mean Sq F value Pr(>F)  
+Label         4  0.352 0.08793   2.834  0.025 *
+Residuals   265  8.223 0.03103                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+[1] 
+[1] 
+[1] 
+[1] coef20
+             Df Sum Sq Mean Sq F value Pr(>F)
+Label         4 0.0535 0.01337   1.285  0.276
+Residuals   265 2.7590 0.01041               
+[1] 
+[1] 
+[1] 
+[1] coef21
+             Df Sum Sq Mean Sq F value   Pr(>F)    
+Label         4  0.236 0.05900   6.307 7.32e-05 ***
+Residuals   265  2.479 0.00935                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+[1] 
+[1] 
+[1] 
+[1] coef22
+             Df Sum Sq  Mean Sq F value Pr(>F)
+Label         4 0.0299 0.007471   1.391  0.237
+Residuals   265 1.4234 0.005371               
+[1] 
+[1] 
+[1] 
+[1] coef23
+             Df Sum Sq  Mean Sq F value Pr(>F)
+Label         4 0.0101 0.002528   0.903  0.463
+Residuals   265 0.7417 0.002799               
+[1] 
+[1] 
+[1] 
+[1] coef24
+             Df Sum Sq   Mean Sq F value Pr(>F)
+Label         4 0.0026 0.0006612   0.373  0.828
+Residuals   265 0.4697 0.0017726               
+[1] 
+[1] 
+[1] 
+[1] coef25
+             Df  Sum Sq   Mean Sq F value Pr(>F)
+Label         4 0.00221 0.0005537   0.481   0.75
+Residuals   265 0.30534 0.0011522               
+[1] 
+[1] 
+[1] 
+[1] coef26
+             Df  Sum Sq   Mean Sq F value Pr(>F)
+Label         4 0.00403 0.0010079   1.266  0.284
+Residuals   265 0.21099 0.0007962               
+[1] 
+[1] 
+[1] 
+[1] coef27
+             Df  Sum Sq   Mean Sq F value Pr(>F)  
+Label         4 0.00719 0.0017971   2.918 0.0218 *
+Residuals   265 0.16322 0.0006159                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+[1] 
+[1] 
+[1] 
+[1] coef28
+             Df Sum Sq Mean Sq F value Pr(>F)  
+Label         4  0.266 0.06651   3.292 0.0118 *
+Residuals   265  5.355 0.02021                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+[1] 
+[1] 
+[1] 
+[1] coef29
+             Df Sum Sq Mean Sq F value   Pr(>F)    
+Label         4 0.2741 0.06854   6.462 5.63e-05 ***
+Residuals   265 2.8106 0.01061                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+[1] 
+[1] 
+[1] 
+[1] coef30
+             Df Sum Sq  Mean Sq F value Pr(>F)
+Label         4 0.0342 0.008546    1.44  0.221
+Residuals   265 1.5726 0.005934               
+[1] 
+[1] 
+[1] 
+[1] coef31
+             Df Sum Sq Mean Sq F value   Pr(>F)    
+Label         4 0.1045 0.02613   4.987 0.000684 ***
+Residuals   265 1.3885 0.00524                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+[1] 
+[1] 
+[1] 
+[1] coef32
+             Df Sum Sq  Mean Sq F value Pr(>F)
+Label         4 0.0085 0.002130   0.902  0.463
+Residuals   265 0.6257 0.002361               
+[1] 
+[1] 
+[1] 
+[1] coef33
+             Df Sum Sq  Mean Sq F value  Pr(>F)   
+Label         4 0.0292 0.007291   4.135 0.00288 **
+Residuals   265 0.4672 0.001763                   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+[1] 
+[1] 
+[1] 
+[1] coef34
+             Df  Sum Sq  Mean Sq F value Pr(>F)
+Label         4 0.00838 0.002095   1.802  0.129
+Residuals   265 0.30806 0.001162               
+[1] 
+[1] 
+[1] 
+[1] coef35
+             Df Sum Sq   Mean Sq F value Pr(>F)  
+Label         4 0.0076 0.0019003   2.675 0.0324 *
+Residuals   265 0.1882 0.0007103                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+[1] 
+[1] 
+[1] 
+[1] coef36
+             Df  Sum Sq   Mean Sq F value Pr(>F)  
+Label         4 0.00696 0.0017402   3.162 0.0146 *
+Residuals   265 0.14583 0.0005503                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+[1] 
+[1] 
+[1] 
+[1] coef37
+             Df Sum Sq Mean Sq F value Pr(>F)    
+Label         4  4.291  1.0727      76 <2e-16 ***
+Residuals   265  3.740  0.0141                   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+[1] 
+[1] 
+[1] 
+[1] coef38
+             Df Sum Sq Mean Sq F value Pr(>F)    
+Label         4 106495   26624   62.77 <2e-16 ***
+Residuals   265 112396     424                   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
